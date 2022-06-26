@@ -5,4 +5,5 @@ You need processing engine, just download the repository and open it with proces
 # Commands
 
 Click to remove a stone
+
 Middle click to reset game
